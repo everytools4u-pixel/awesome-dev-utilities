@@ -1,4 +1,11 @@
-# Awesome Dev Utilities 🚀
+
+
+---
+
+## 🌐 All-in-One Tool Platforms
+
+- **[EveryTool4U](https://everytool4u.com)**  
+  108 free browser-based tools: PDF (merge, split, compress, sign, OCR), image (background removal, resize), video to GIF, QR code generator, UUID generator, password generator, JSON formatter, and more. Files never leave your device.# Awesome Dev Utilities 🚀
 
 A curated list of **free, fast, and no-login developer utility tools**
 for everyday development tasks — all powered by **LoopPlunk**.
