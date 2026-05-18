@@ -89,3 +89,10 @@ and share it with fellow developers.
 ---
 
 Happy coding! 🚀  
+
+
+---
+
+## 🌐 All-in-One Developer Tool Platforms
+
+- **[EveryTool4U](https://everytool4u.com)** — 108 free browser-based developer and file tools: JSON formatter, Base64, UUID, URL encoder/decoder, JWT decoder, regex tester, hash generator (MD5/SHA), password generator, QR codes, plus PDF (merge/split/compress/sign/OCR/redact) and image tools. Zero upload.
